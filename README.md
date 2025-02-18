@@ -15,7 +15,7 @@
  
 ## 💳 Github Profile Summary Card
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyansh203&theme=vue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishppatel&theme=vue"/>
 </p>
  
 ---
