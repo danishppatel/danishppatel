@@ -3,8 +3,8 @@
 ---
 ### About Me
 
-👨‍💻 I'm Danish, a passionate developer with a strong foundation in Competitive Programming.  
-I'm currently exploring different technologies and enjoy learning new things.  
+Hey there! 👋 I'm Danish Patel, a passionate Full-Stack Developer 💻 and Competitive Programmer 🚀 who loves solving real-world problems with code.
+I'm currently exploring different technologies 🔍 and enjoy learning new things 📚!
 
 ---
 ### 📊 Profile Hits
@@ -64,4 +64,4 @@ I'm currently exploring different technologies and enjoy learning new things.
 ---
 ### 🚀 Connect with Me
 - [GitHub](https://github.com/danishppatel)
-- [LinkedIn]([https://www.linkedin.com/in/danishppatel](https://www.linkedin.com/in/danish-patel-664ba4236/))
+- [LinkedIn](https://www.linkedin.com/in/danish-patel-664ba4236/)
