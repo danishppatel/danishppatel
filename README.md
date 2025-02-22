@@ -20,7 +20,12 @@ I'm currently exploring different technologies 🔍 and enjoy learning new thing
 
 ---
 ## 🔝 Github Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danishppatel)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+<div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danishppatel&theme=chartreuse-dark&hide_border=true" />
+</div>
+<br></br>
+[[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danishppatel)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 💻 Skills & Technologies
